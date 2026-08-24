@@ -11,3 +11,4 @@ git remote add origin <paste_your_repo_URL_here>
 git push -u origin master
 username-github
 pass -key
+Back in your EC2 terminal, pull the latest changes from the remote repository with the command: git pull -v origin master
