@@ -1,2 +1,13 @@
 hello this is my first git repo using aws
 2nd verify
+sudo yum install git -y
+mkdir sanmitawork 
+cd sanmitawork
+git init
+vi myrepoo.txt (Press I to insert text, type something, then press Esc and type :wq to save and quit) 
+git add . 
+git commit -m “Initial commit”
+git remote add origin <paste_your_repo_URL_here> 
+git push -u origin master
+username-github
+pass -key
